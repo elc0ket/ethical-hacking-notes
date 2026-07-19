@@ -12,8 +12,8 @@ Apuntes y cheatsheets de hacking ético / pentesting, organizados por módulos. 
 
 ### Módulo 1 - Introducción a Ciberseguridad
 
-- Parte 1]
-- Parte 2]
+- Parte 1
+- Parte 2
 
 ### Módulo 2 - Fundamentos de Redes
 
