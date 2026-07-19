@@ -12,34 +12,34 @@ Apuntes y cheatsheets de hacking ético / pentesting, organizados por módulos. 
 
 ### Módulo 1 - Introducción a Ciberseguridad
 
-- Parte 1
+- Parte 1 
 - Parte 2
 
 ### Módulo 2 - Fundamentos de Redes
 
-- Parte 1
-- Parte 2
-- Parte 3
+- Parte 1 - Modelo OSI y TCP/IP
+- Parte 2 - Protocolos, Subnetting y Routing
+- Parte 3 - Wireshark y Ataques de Red
 
 ### Módulo 3 - Sistemas Operativos para Hackingg/)
 
-- Parte 1
-- Parte 2
-- Parte 3
+- Parte 1 - Linux Avanzado
+- Parte 2 - Usuarios, Procesos y Bash Scripting
+- Parte 3 - Privesc, Contraseñas y Persistencia
 
 ### Módulo 4 - Programación y Scripting para Hacking
 
-- Contenido completo
+- Python Fundamentals
 
 ### Módulo 5 - Reconocimiento y OSINT
 
-- Parte 1
-- Parte 2
+- Parte 1 - Fundamentos y Metodología
+- Parte 2 - OSINT de Personas y Metadatos
 
 ### Módulo 6 - Web Hacking / OWASP Top 10
 
 - Parte 1 - Fundamentos y OWASP Top 10
-- Parte 2 - SQLi, XSS, CSRF, Burp Suite]
+- Parte 2 - SQLi, XSS, CSRF, Burp Suite
 
 ### Módulo 7 - Explotación de Sistemas
 
